@@ -1,8 +1,0 @@
-nav{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-}
-menu{
-    display: flex;
-    justify-content: space-between;
-}
